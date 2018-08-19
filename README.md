@@ -1,2 +1,0 @@
-# UI
-Stack Overflow-lite
